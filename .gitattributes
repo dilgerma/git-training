@@ -1,0 +1,7 @@
+* auto
+
+*.txt eol=lf
+*.sh eol=crlf
+*.png binary
+*.jpg binary
+*.pdf binary
